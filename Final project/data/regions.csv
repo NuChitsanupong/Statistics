@@ -1,0 +1,218 @@
+Country Name,Region,ThirdWorld
+Afghanistan,South Asia,1
+Albania,Eastern Europe,0
+Algeria,Africa,0
+American Samoa,Australia and Oceanea,0
+Andorra,Western Europe,0
+Angola,Africa,1
+Antigua and Barbuda,North America,0
+Argentina,South America,0
+Armenia,Western Asia,0
+Aruba,North America,0
+Australia,Australia and Oceanea,0
+Austria,Western Europe,0
+Azerbaijan,Western Asia,0
+"Bahamas, The",North America,0
+Bahrain,Middle East,0
+Bangladesh,South Asia,1
+Barbados,North America,0
+Belarus,Eastern Europe,0
+Belgium,Western Europe,0
+Belize,North America,0
+Benin,Africa,1
+Bermuda,North America,0
+Bhutan,South Asia,1
+Bolivia,South America,0
+Bosnia and Herzegovina,Eastern Europe,0
+Botswana,Africa,0
+Brazil,South America,0
+British Virgin Islands,North America,0
+Brunei Darussalam,Southeast Asia,0
+Bulgaria,Eastern Europe,0
+Burkina Faso,Africa,1
+Burundi,Africa,1
+Cabo Verde,Africa,0
+Cambodia,Southeast Asia,1
+Cameroon,Africa,0
+Canada,North America,0
+Cayman Islands,North America,0
+Central African Republic,Africa,1
+Chad,Africa,1
+Channel Islands,North America,0
+Chile,South America,0
+China,East Asia,0
+Colombia,South America,0
+Comoros,Africa,1
+"Congo, Dem. Rep.",Africa,1
+"Congo, Rep.",Africa,0
+Costa Rica,North America,0
+Cote d'Ivoire,Africa,0
+Croatia,Eastern Europe,0
+Cuba,North America,0
+Curacao,North America,0
+Cyprus,Middle East,0
+Czech Republic,Western Europe,0
+Denmark,Northern Europe,0
+Djibouti,Africa,1
+Dominica,North America,0
+Dominican Republic,North America,0
+Ecuador,South America,0
+"Egypt, Arab Rep.",Africa,0
+El Salvador,North America,0
+Equatorial Guinea,Africa,0
+Eritrea,Africa,1
+Estonia,Northern Europe,0
+Eswatini,Africa,0
+Ethiopia,Africa,1
+Faroe Islands,Northern Europe,0
+Fiji,Australia and Oceanea,0
+Finland,Northern Europe,0
+France,Western Europe,0
+French Polynesia,Australia and Oceanea,0
+Gabon,Africa,0
+"Gambia, The",Africa,1
+Georgia,Western Asia,0
+Germany,Western Europe,0
+Ghana,Africa,0
+Gibraltar,Western Europe,0
+Greece,Eastern Europe,0
+Greenland,Northern Europe,0
+Grenada,North America,0
+Guam,Australia and Oceanea,0
+Guatemala,North America,0
+Guinea,Africa,1
+Guinea-Bissau,Africa,1
+Guyana,South America,0
+Haiti,North America,1
+Honduras,North America,0
+"Hong Kong SAR, China",East Asia,0
+Hungary,Eastern Europe,0
+Iceland,Northern Europe,0
+India,South Asia,0
+Indonesia,Southeast Asia,0
+"Iran, Islamic Rep.",Middle East,0
+Iraq,Middle East,0
+Ireland,Northern Europe,0
+Isle of Man,Northern Europe,0
+Israel,Middle East,0
+Italy,Western Europe,0
+Jamaica,North America,0
+Japan,East Asia,0
+Jordan,Middle East,0
+Kazakhstan,Western Asia,0
+Kenya,Africa,0
+Kiribati,Australia and Oceanea,1
+"Korea, Dem. People?s Rep.",East Asia,0
+"Korea, Rep.",East Asia,0
+Kosovo,Eastern Europe,0
+Kuwait,Middle East,0
+Kyrgyz Republic,Western Asia,0
+Lao PDR,Southeast Asia,1
+Latvia,Northern Europe,0
+Lebanon,Middle East,0
+Lesotho,Africa,1
+Liberia,Africa,1
+Libya,Africa,0
+Liechtenstein,Western Europe,0
+Lithuania,Northern Europe,0
+Luxembourg,Western Europe,0
+"Macao SAR, China",East Asia,0
+Madagascar,Africa,1
+Malawi,Africa,1
+Malaysia,Southeast Asia,0
+Maldives,South Asia,0
+Mali,Africa,1
+Malta,Western Europe,0
+Marshall Islands,Australia and Oceanea,0
+Mauritania,Africa,1
+Mauritius,Africa,0
+Mexico,North America,0
+"Micronesia, Fed. Sts.",Australia and Oceanea,0
+Moldova,Eastern Europe,0
+Monaco,Western Europe,0
+Mongolia,East Asia,0
+Montenegro,Eastern Europe,0
+Morocco,Africa,0
+Mozambique,Africa,1
+Myanmar,Southeast Asia,1
+Namibia,Africa,0
+Nauru,Australia and Oceanea,0
+Nepal,South Asia,1
+Netherlands,Western Europe,0
+New Caledonia,Australia and Oceanea,0
+New Zealand,Australia and Oceanea,0
+Nicaragua,North America,0
+Niger,Africa,1
+Nigeria,Africa,0
+North Macedonia,Eastern Europe,0
+Northern Mariana Islands,Australia and Oceanea,0
+Norway,Northern Europe,0
+Oman,Middle East,0
+Pakistan,South Asia,0
+Palau,Australia and Oceanea,0
+Panama,North America,0
+Papua New Guinea,Australia and Oceanea,0
+Paraguay,South America,0
+Peru,South America,0
+Philippines,Southeast Asia,0
+Poland,Eastern Europe,0
+Portugal,Western Europe,0
+Puerto Rico,North America,0
+Qatar,Middle East,0
+Romania,Eastern Europe,0
+Russian Federation,Eastern Europe,0
+Rwanda,Africa,1
+Samoa,Australia and Oceanea,0
+San Marino,Western Europe,0
+Sao Tome and Principe,Africa,1
+Saudi Arabia,Middle East,0
+Senegal,Africa,1
+Serbia,Eastern Europe,0
+Seychelles,Africa,0
+Sierra Leone,Africa,1
+Singapore,Southeast Asia,0
+Sint Maarten (Dutch part),North America,0
+Slovak Republic,Eastern Europe,0
+Slovenia,Western Europe,0
+Solomon Islands,Australia and Oceanea,1
+Somalia,Africa,1
+South Africa,Africa,0
+South Sudan,Africa,1
+Spain,Western Europe,0
+Sri Lanka,South Asia,0
+St. Kitts and Nevis,North America,0
+St. Lucia,North America,0
+St. Martin (French part),Sint Maarten,0
+St. Vincent and the Grenadines,North America,0
+Sudan,Africa,1
+Suriname,South America,0
+Sweden,Northern Europe,0
+Switzerland,Western Europe,0
+Syrian Arab Republic,Middle East,0
+Tajikistan,Western Asia,0
+Tanzania,Africa,1
+Thailand,Thailand,0
+Timor-Leste,Southeast Asia,1
+Togo,Africa,1
+Tonga,Australia and Oceanea,0
+Trinidad and Tobago,North America,0
+Tunisia,Africa,0
+Turkey,Middle East,0
+Turkmenistan,Western Asia,0
+Turks and Caicos Islands,North America,0
+Tuvalu,Australia and Oceanea,1
+Uganda,Africa,1
+Ukraine,Eastern Europe,0
+United Arab Emirates,Middle East,0
+United Kingdom,Northern Europe,0
+United States,North America,0
+Uruguay,South America,0
+Uzbekistan,Western Asia,0
+Vanuatu,Australia and Oceanea,1
+"Venezuela, RB",South America,0
+Vietnam,Southeast Asia,0
+Virgin Islands (U.S.),North America,0
+West Bank and Gaza,Middle East,0
+"Yemen, Rep.",Middle East,1
+Zambia,Africa,1
+Zimbabwe,Africa,0

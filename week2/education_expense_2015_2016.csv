@@ -1,0 +1,75 @@
+CountryName,Region,ThirdWorld,Primary2015,Primary2016,EduExpense2015,EduExpense2016
+Albania,Eastern Europe,0,105.543,105.5539,3.43797,3.95464
+Argentina,South America,0,111.3034,110.7392,5.77611,5.57218
+Armenia,Western Asia,0,95.00365,94.5179,2.80591,2.75812
+Australia,Australia and Oceanea,0,101.5999,100.7444,5.32175,5.28031
+Austria,Western Europe,0,101.9975,102.2644,5.45675,5.5007
+Azerbaijan,Western Asia,0,106.6015,106.4317,2.95168,2.90341
+Belarus,Eastern Europe,0,99.14978,101.077,4.78752,4.94655
+Belgium,Western Europe,0,103.1558,103.3178,6.54091,6.54428
+Belize,North America,0,112.8883,114.4842,6.76618,7.12481
+Benin,Africa,1,132.4668,130.9023,4.35643,3.99469
+Bhutan,South Asia,1,104.2338,102.6607,7.38966,6.80249
+Burundi,Africa,1,130.9034,128.0421,6.37054,4.69272
+Cabo Verde,Africa,0,105.4968,103.9075,5.26691,5.28879
+Cameroon,Africa,0,116.2104,116.1173,2.76805,2.65423
+Chile,South America,0,100.6848,100.9783,4.8737,5.35064
+Colombia,South America,0,115.2319,116.2337,4.47039,4.47672
+Costa Rica,North America,0,111.298,111.7611,7.08254,7.09768
+Cote d'Ivoire,Africa,0,90.65904,95.88669,4.82988,5.39423
+Czech Republic,Western Europe,0,99.51668,100.2089,5.78885,5.58738
+El Salvador,North America,0,102.6576,99.80045,3.95582,3.86991
+Estonia,Northern Europe,0,97.14641,97.1178,5.13904,5.17316
+Finland,Northern Europe,0,100.5608,100.4188,7.08008,6.89735
+France,Western Europe,0,101.9896,102.2604,5.46424,5.43259
+Germany,Western Europe,0,101.6674,102.6776,4.80518,4.80093
+Ghana,Africa,0,108.3379,106.728,4.51089,4.48683
+Guatemala,North America,0,101.5127,100.8123,2.95518,2.83281
+Honduras,North America,0,92.77764,92.58469,6.41297,6.30177
+"Hong Kong SAR, China",East Asia,0,110.2268,108.1417,3.26212,3.29265
+Hungary,Eastern Europe,0,102.3251,101.8788,4.5721,4.71078
+Iceland,Northern Europe,0,98.62543,99.53414,7.53237,7.45988
+"Iran, Islamic Rep.",Middle East,0,108.9007,111.2356,2.79739,3.36576
+Ireland,Northern Europe,0,101.1846,101.3415,3.76355,3.69856
+Israel,Middle East,0,105.624,104.748,5.85445,5.8493
+Italy,Western Europe,0,100.3867,99.42546,4.08169,3.82943
+Jamaica,North America,0,91.88556,90.88122,5.45576,5.31548
+Kazakhstan,Western Asia,0,111.6401,109.8852,2.78858,2.9781
+Kenya,Africa,0,103.6616,103.2053,5.27134,5.36267
+Kyrgyz Republic,Western Asia,0,105.4101,104.6015,5.98551,6.58615
+Latvia,Northern Europe,0,99.39332,99.19855,5.33721,4.71957
+Lithuania,Northern Europe,0,102.0893,102.8918,4.21723,4.00847
+"Macao SAR, China",East Asia,0,99.34458,101.5285,2.9817,3.0831
+Malawi,Africa,1,146.3968,144.5329,5.60866,4.74857
+Malaysia,Southeast Asia,0,103.8187,104.9992,4.97274,4.82401
+Maldives,South Asia,0,101.5349,99.4277,4.36655,4.06728
+Mali,Africa,1,75.68318,77.17026,3.80152,3.09604
+Mauritius,Africa,0,102.9205,102.4534,4.88667,5.0136
+Mexico,North America,0,106.6061,106.2777,5.23524,4.91005
+Mongolia,East Asia,0,100.3624,102.9698,4.17699,5.18061
+Nepal,South Asia,1,144.1777,144.4888,3.70359,4.44099
+Netherlands,Western Europe,0,102.6976,103.2868,5.34816,5.4796
+New Zealand,Australia and Oceanea,0,97.94278,98.82145,6.33634,6.4278
+Niger,Africa,1,71.59591,73.43233,6.01732,4.08372
+Norway,Northern Europe,0,99.90493,100.2259,7.55247,7.9761
+Pakistan,South Asia,0,85.08992,91.31746,2.65002,3.00292
+Peru,South America,0,100.2368,103.0603,3.9668,3.81827
+Russian Federation,Eastern Europe,0,99.07291,99.81439,3.8334,3.74321
+Rwanda,Africa,1,139.6244,141.2787,3.75146,3.53979
+Sao Tome and Principe,Africa,1,105.2666,106.1885,3.89812,5.07533
+Senegal,Africa,1,84.93398,84.45544,5.45638,5.12751
+Serbia,Eastern Europe,0,101.3429,100.5713,4.04069,3.86178
+Slovak Republic,Eastern Europe,0,98.493,97.85217,4.63557,3.90267
+Slovenia,Western Europe,0,99.94983,99.83801,4.91156,4.79565
+South Africa,Africa,0,105.5704,103.185,5.95619,5.94059
+Spain,Western Europe,0,106.364,104.2142,4.27239,4.20911
+Sri Lanka,South Asia,0,101.6615,101.474,2.22875,3.47508
+St. Lucia,North America,0,101.1424,101.9087,4.47612,5.80423
+Sweden,Northern Europe,0,122.9374,124.8511,7.5483,7.66993
+Switzerland,Western Europe,0,104.1842,104.6291,5.10057,5.11332
+Timor-Leste,Southeast Asia,1,128.2139,125.7213,4.3374,5.2893
+Togo,Africa,1,120.8001,125.1071,5.1086,4.9847
+Uganda,Africa,1,102.6484,104.0007,2.77376,2.55882
+United Kingdom,Northern Europe,0,101.9253,101.3352,5.60939,5.48697
+Uzbekistan,Western Asia,0,99.93193,101.5725,7.07882,6.87223
+West Bank and Gaza,Middle East,0,97.51143,97.45101,5.14136,5.71773
